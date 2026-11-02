@@ -60,4 +60,4 @@ The validator system must consider:
 
 Minimum stake, validator rewards and penalties remain undecided.
 
-No VERION validator network currently exists.
+No VERION validator network currently exists. 
